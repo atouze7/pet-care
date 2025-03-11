@@ -2,7 +2,7 @@
 .env
 *.env
 # Ignore API config file
-src/components/uitls.api
+backend/components/uitls.api
 =======
 HELP.md
 target/
@@ -39,5 +39,5 @@ build/
 .vscode/
 
 # Ignore Spring Boot application properties
-src/main/resources/application.properties
+backend/main/resources/application.properties
 >>>>>>> Updated .gitignore to ignore application.properties
